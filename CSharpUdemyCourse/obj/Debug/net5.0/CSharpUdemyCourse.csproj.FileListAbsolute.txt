@@ -1,0 +1,16 @@
+C:\code\UdemyCSharp\CSharpUdemyCourse\bin\Debug\net5.0\CSharpUdemyCourse.exe
+C:\code\UdemyCSharp\CSharpUdemyCourse\bin\Debug\net5.0\CSharpUdemyCourse.deps.json
+C:\code\UdemyCSharp\CSharpUdemyCourse\bin\Debug\net5.0\CSharpUdemyCourse.runtimeconfig.json
+C:\code\UdemyCSharp\CSharpUdemyCourse\bin\Debug\net5.0\CSharpUdemyCourse.runtimeconfig.dev.json
+C:\code\UdemyCSharp\CSharpUdemyCourse\bin\Debug\net5.0\CSharpUdemyCourse.dll
+C:\code\UdemyCSharp\CSharpUdemyCourse\bin\Debug\net5.0\ref\CSharpUdemyCourse.dll
+C:\code\UdemyCSharp\CSharpUdemyCourse\bin\Debug\net5.0\CSharpUdemyCourse.pdb
+C:\code\UdemyCSharp\CSharpUdemyCourse\obj\Debug\net5.0\CSharpUdemyCourse.csproj.AssemblyReference.cache
+C:\code\UdemyCSharp\CSharpUdemyCourse\obj\Debug\net5.0\CSharpUdemyCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\UdemyCSharp\CSharpUdemyCourse\obj\Debug\net5.0\CSharpUdemyCourse.AssemblyInfoInputs.cache
+C:\code\UdemyCSharp\CSharpUdemyCourse\obj\Debug\net5.0\CSharpUdemyCourse.AssemblyInfo.cs
+C:\code\UdemyCSharp\CSharpUdemyCourse\obj\Debug\net5.0\CSharpUdemyCourse.csproj.CoreCompileInputs.cache
+C:\code\UdemyCSharp\CSharpUdemyCourse\obj\Debug\net5.0\CSharpUdemyCourse.dll
+C:\code\UdemyCSharp\CSharpUdemyCourse\obj\Debug\net5.0\ref\CSharpUdemyCourse.dll
+C:\code\UdemyCSharp\CSharpUdemyCourse\obj\Debug\net5.0\CSharpUdemyCourse.pdb
+C:\code\UdemyCSharp\CSharpUdemyCourse\obj\Debug\net5.0\CSharpUdemyCourse.genruntimeconfig.cache
