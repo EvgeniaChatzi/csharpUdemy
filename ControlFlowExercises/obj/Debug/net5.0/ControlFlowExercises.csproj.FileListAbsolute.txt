@@ -1,0 +1,16 @@
+C:\code\UdemyCSharp\ControlFlowExercises\bin\Debug\net5.0\ControlFlowExercises.exe
+C:\code\UdemyCSharp\ControlFlowExercises\bin\Debug\net5.0\ControlFlowExercises.deps.json
+C:\code\UdemyCSharp\ControlFlowExercises\bin\Debug\net5.0\ControlFlowExercises.runtimeconfig.json
+C:\code\UdemyCSharp\ControlFlowExercises\bin\Debug\net5.0\ControlFlowExercises.runtimeconfig.dev.json
+C:\code\UdemyCSharp\ControlFlowExercises\bin\Debug\net5.0\ControlFlowExercises.dll
+C:\code\UdemyCSharp\ControlFlowExercises\bin\Debug\net5.0\ref\ControlFlowExercises.dll
+C:\code\UdemyCSharp\ControlFlowExercises\bin\Debug\net5.0\ControlFlowExercises.pdb
+C:\code\UdemyCSharp\ControlFlowExercises\obj\Debug\net5.0\ControlFlowExercises.csproj.AssemblyReference.cache
+C:\code\UdemyCSharp\ControlFlowExercises\obj\Debug\net5.0\ControlFlowExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\UdemyCSharp\ControlFlowExercises\obj\Debug\net5.0\ControlFlowExercises.AssemblyInfoInputs.cache
+C:\code\UdemyCSharp\ControlFlowExercises\obj\Debug\net5.0\ControlFlowExercises.AssemblyInfo.cs
+C:\code\UdemyCSharp\ControlFlowExercises\obj\Debug\net5.0\ControlFlowExercises.csproj.CoreCompileInputs.cache
+C:\code\UdemyCSharp\ControlFlowExercises\obj\Debug\net5.0\ControlFlowExercises.dll
+C:\code\UdemyCSharp\ControlFlowExercises\obj\Debug\net5.0\ref\ControlFlowExercises.dll
+C:\code\UdemyCSharp\ControlFlowExercises\obj\Debug\net5.0\ControlFlowExercises.pdb
+C:\code\UdemyCSharp\ControlFlowExercises\obj\Debug\net5.0\ControlFlowExercises.genruntimeconfig.cache

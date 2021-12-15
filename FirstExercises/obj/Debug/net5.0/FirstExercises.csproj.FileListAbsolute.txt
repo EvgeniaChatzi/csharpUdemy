@@ -1,0 +1,16 @@
+C:\code\UdemyCSharp\FirstExercises\bin\Debug\net5.0\FirstExercises.exe
+C:\code\UdemyCSharp\FirstExercises\bin\Debug\net5.0\FirstExercises.deps.json
+C:\code\UdemyCSharp\FirstExercises\bin\Debug\net5.0\FirstExercises.runtimeconfig.json
+C:\code\UdemyCSharp\FirstExercises\bin\Debug\net5.0\FirstExercises.runtimeconfig.dev.json
+C:\code\UdemyCSharp\FirstExercises\bin\Debug\net5.0\FirstExercises.dll
+C:\code\UdemyCSharp\FirstExercises\bin\Debug\net5.0\ref\FirstExercises.dll
+C:\code\UdemyCSharp\FirstExercises\bin\Debug\net5.0\FirstExercises.pdb
+C:\code\UdemyCSharp\FirstExercises\obj\Debug\net5.0\FirstExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\UdemyCSharp\FirstExercises\obj\Debug\net5.0\FirstExercises.AssemblyInfoInputs.cache
+C:\code\UdemyCSharp\FirstExercises\obj\Debug\net5.0\FirstExercises.AssemblyInfo.cs
+C:\code\UdemyCSharp\FirstExercises\obj\Debug\net5.0\FirstExercises.csproj.CoreCompileInputs.cache
+C:\code\UdemyCSharp\FirstExercises\obj\Debug\net5.0\FirstExercises.dll
+C:\code\UdemyCSharp\FirstExercises\obj\Debug\net5.0\ref\FirstExercises.dll
+C:\code\UdemyCSharp\FirstExercises\obj\Debug\net5.0\FirstExercises.pdb
+C:\code\UdemyCSharp\FirstExercises\obj\Debug\net5.0\FirstExercises.genruntimeconfig.cache
+C:\code\UdemyCSharp\FirstExercises\obj\Debug\net5.0\FirstExercises.csproj.AssemblyReference.cache

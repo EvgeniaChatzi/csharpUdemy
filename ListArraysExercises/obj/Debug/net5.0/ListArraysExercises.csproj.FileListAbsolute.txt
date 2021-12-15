@@ -1,0 +1,16 @@
+C:\code\UdemyCSharp\ListArraysExercises\bin\Debug\net5.0\ListArraysExercises.exe
+C:\code\UdemyCSharp\ListArraysExercises\bin\Debug\net5.0\ListArraysExercises.deps.json
+C:\code\UdemyCSharp\ListArraysExercises\bin\Debug\net5.0\ListArraysExercises.runtimeconfig.json
+C:\code\UdemyCSharp\ListArraysExercises\bin\Debug\net5.0\ListArraysExercises.runtimeconfig.dev.json
+C:\code\UdemyCSharp\ListArraysExercises\bin\Debug\net5.0\ListArraysExercises.dll
+C:\code\UdemyCSharp\ListArraysExercises\bin\Debug\net5.0\ref\ListArraysExercises.dll
+C:\code\UdemyCSharp\ListArraysExercises\bin\Debug\net5.0\ListArraysExercises.pdb
+C:\code\UdemyCSharp\ListArraysExercises\obj\Debug\net5.0\ListArraysExercises.csproj.AssemblyReference.cache
+C:\code\UdemyCSharp\ListArraysExercises\obj\Debug\net5.0\ListArraysExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\UdemyCSharp\ListArraysExercises\obj\Debug\net5.0\ListArraysExercises.AssemblyInfoInputs.cache
+C:\code\UdemyCSharp\ListArraysExercises\obj\Debug\net5.0\ListArraysExercises.AssemblyInfo.cs
+C:\code\UdemyCSharp\ListArraysExercises\obj\Debug\net5.0\ListArraysExercises.csproj.CoreCompileInputs.cache
+C:\code\UdemyCSharp\ListArraysExercises\obj\Debug\net5.0\ListArraysExercises.dll
+C:\code\UdemyCSharp\ListArraysExercises\obj\Debug\net5.0\ref\ListArraysExercises.dll
+C:\code\UdemyCSharp\ListArraysExercises\obj\Debug\net5.0\ListArraysExercises.pdb
+C:\code\UdemyCSharp\ListArraysExercises\obj\Debug\net5.0\ListArraysExercises.genruntimeconfig.cache
