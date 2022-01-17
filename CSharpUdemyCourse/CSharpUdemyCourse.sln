@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstExercises", "..\FirstE
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControlFlowExercises", "..\ControlFlowExercises\ControlFlowExercises.csproj", "{91129998-2930-4A4A-BA93-04488E98BDF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListArraysExercises", "..\ListArraysExercises\ListArraysExercises.csproj", "{0E0F4D29-FA09-4C4D-8FAE-FB4F453DC214}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListArraysExercises", "..\ListArraysExercises\ListArraysExercises.csproj", "{0E0F4D29-FA09-4C4D-8FAE-FB4F453DC214}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextExercises", "..\TextExercises\TextExercises.csproj", "{29E52ACD-3BBD-479E-9B9A-9B9F87E102F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{0E0F4D29-FA09-4C4D-8FAE-FB4F453DC214}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E0F4D29-FA09-4C4D-8FAE-FB4F453DC214}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E0F4D29-FA09-4C4D-8FAE-FB4F453DC214}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29E52ACD-3BBD-479E-9B9A-9B9F87E102F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29E52ACD-3BBD-479E-9B9A-9B9F87E102F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29E52ACD-3BBD-479E-9B9A-9B9F87E102F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29E52ACD-3BBD-479E-9B9A-9B9F87E102F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

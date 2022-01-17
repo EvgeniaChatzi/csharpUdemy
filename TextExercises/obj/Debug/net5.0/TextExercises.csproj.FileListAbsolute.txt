@@ -1,0 +1,16 @@
+C:\code\UdemyCSharp\TextExercises\bin\Debug\net5.0\TextExercises.exe
+C:\code\UdemyCSharp\TextExercises\bin\Debug\net5.0\TextExercises.deps.json
+C:\code\UdemyCSharp\TextExercises\bin\Debug\net5.0\TextExercises.runtimeconfig.json
+C:\code\UdemyCSharp\TextExercises\bin\Debug\net5.0\TextExercises.runtimeconfig.dev.json
+C:\code\UdemyCSharp\TextExercises\bin\Debug\net5.0\TextExercises.dll
+C:\code\UdemyCSharp\TextExercises\bin\Debug\net5.0\ref\TextExercises.dll
+C:\code\UdemyCSharp\TextExercises\bin\Debug\net5.0\TextExercises.pdb
+C:\code\UdemyCSharp\TextExercises\obj\Debug\net5.0\TextExercises.csproj.AssemblyReference.cache
+C:\code\UdemyCSharp\TextExercises\obj\Debug\net5.0\TextExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\UdemyCSharp\TextExercises\obj\Debug\net5.0\TextExercises.AssemblyInfoInputs.cache
+C:\code\UdemyCSharp\TextExercises\obj\Debug\net5.0\TextExercises.AssemblyInfo.cs
+C:\code\UdemyCSharp\TextExercises\obj\Debug\net5.0\TextExercises.csproj.CoreCompileInputs.cache
+C:\code\UdemyCSharp\TextExercises\obj\Debug\net5.0\TextExercises.dll
+C:\code\UdemyCSharp\TextExercises\obj\Debug\net5.0\ref\TextExercises.dll
+C:\code\UdemyCSharp\TextExercises\obj\Debug\net5.0\TextExercises.pdb
+C:\code\UdemyCSharp\TextExercises\obj\Debug\net5.0\TextExercises.genruntimeconfig.cache
